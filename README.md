@@ -1,2 +1,1 @@
 # Liri-Bot
-Liri-Bot
