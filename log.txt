@@ -1,18 +1,16 @@
+{"searchTerm":"I have Nothing","ArtistName":"Whitney Houston","SongName":"I Have Nothing","PreviewLinkURL":"https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96","AlbumName":"The Bodyguard - Original Soundtrack Album"}
 
-OMBDed mr+nobody - Mon Oct 01 2018 17:41:12 GMT-0400 (Eastern Daylight Time)
-Spotified the+sign+ace+of+base - Mon Oct 01 2018 17:41:53 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Mon Oct 01 2018 17:42:10 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Mon Oct 01 2018 17:45:37 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Mon Oct 01 2018 17:45:43 GMT-0400 (Eastern Daylight Time)
-Spotified the+sign+ace+of+base - Mon Oct 01 2018 17:45:47 GMT-0400 (Eastern Daylight Time)
-Spotified the+sign+ace+of+base - Mon Oct 01 2018 17:45:53 GMT-0400 (Eastern Daylight Time)
-Spotified the+sign+ace+of+base - Mon Oct 01 2018 17:46:58 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Mon Oct 01 2018 17:47:01 GMT-0400 (Eastern Daylight Time)
-Spotified the+sign+ace+of+base - Mon Oct 01 2018 17:47:08 GMT-0400 (Eastern Daylight Time)
-Used do-what-it-says - Sun Oct 14 2018 17:29:42 GMT-0400 (Eastern Daylight Time)
-Spotified "I Want it That Way" - Sun Oct 14 2018 17:29:44 GMT-0400 (Eastern Daylight Time)
-Spotified cool - Sun Oct 14 2018 17:30:30 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Sun Oct 14 2018 17:30:44 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Sun Oct 14 2018 17:34:00 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Sun Oct 14 2018 17:35:49 GMT-0400 (Eastern Daylight Time)
-Checked Tweets - Sun Oct 14 2018 17:36:18 GMT-0400 (Eastern Daylight Time)
+
+{"searchTerm":"The Science of Interstellar","Title":"The Science of Interstellar","Year":"2015","RatingIMDB":"7.2","Country":"USA","Plot":"The Science of Christopher Nolan's Sci-Fi, Interstellar.","Actors":["Matthew McConaughey, Kip Thorne, Christopher Nolan, Jonathan Nolan"]}
+
+[{"Tweets":"#UofT news https://t.co/GEFDtYxOTg","DateCreated":"Sun Jul 29 19:31:35 +0000 2018"},{"Tweets":"#technology https://t.co/si6VUjwZfb","DateCreated":"Sun Jul 29 19:24:02 +0000 2018"},{"Tweets":"Javascript is interesting...working on node.js","DateCreated":"Sun Jul 29 19:05:20 +0000 2018"},{"Tweets":"twitter API is well documented #API","DateCreated":"Sat Jul 28 00:47:43 +0000 2018"},{"Tweets":"Hello Twitter! #myfirstTweet","DateCreated":"Fri Jul 27 23:23:31 +0000 2018"}]
+
+
+{"searchCommand1":"spotify-this-song","searchCommand2":"listen","ArtistName":"The Doobie Brothers","SongName":"Listen To The Music","PreviewLinkURL":"https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm","AlbumName":"Toulouse Street"}
+
+{"searchCommand1":"spotify-this-song","searchCommand2":"listen","ArtistName":"The Doobie Brothers","SongName":"Listen To The Music","PreviewLinkURL":"https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm","AlbumName":"Toulouse Street"}
+
+{"searchCommand1":"spotify-this-song","searchCommand2":"single ladies","ArtistName":"Beyoncé","SongName":"Single Ladies (Put a Ring on It)","PreviewLinkURL":"https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7","AlbumName":"I AM...SASHA FIERCE"}
+
+{"searchCommand1":"my-tweets","searchCommand2":"","Tweets":"twitter API is well documented #API","DateCreated":"Sat Jul 28 00:47:43 +0000 2018"}
+
